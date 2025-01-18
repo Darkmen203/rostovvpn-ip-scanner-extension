@@ -8,13 +8,13 @@ import (
 	"sync"
 	"time"
 
-	ui "github.com/hiddify/hiddify-core/extension/ui"
+	ui "github.com/Darkmen203/rostovvpn-core/extension/ui"
 
-	"github.com/hiddify/hiddify-core/config"
-	ex "github.com/hiddify/hiddify-core/extension"
+	"github.com/Darkmen203/rostovvpn-core/config"
+	ex "github.com/Darkmen203/rostovvpn-core/extension"
 
-	v2 "github.com/hiddify/hiddify-core/v2"
-	"github.com/hiddify/hiddify-ip-scanner-extension/cleanip_scanner"
+	v2 "github.com/Darkmen203/rostovvpn-core/v2"
+	"github.com/Darkmen203/rostovvpn-ip-scanner-extension/cleanip_scanner"
 
 	"github.com/fatih/color"
 	"github.com/rodaine/table"

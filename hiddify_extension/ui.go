@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/hiddify/hiddify-core/extension/sdk"
-	ui "github.com/hiddify/hiddify-core/extension/ui"
-	"github.com/hiddify/hiddify-ip-scanner-extension/cleanip_scanner"
+	"github.com/Darkmen203/rostovvpn-core/extension/sdk"
+	ui "github.com/Darkmen203/rostovvpn-core/extension/ui"
+	"github.com/Darkmen203/rostovvpn-ip-scanner-extension/cleanip_scanner"
 )
 
 func (e *CleanIPExtension) GetUI() ui.Form {
