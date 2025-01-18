@@ -7,7 +7,6 @@ toolchain go1.22.3
 require (
 	github.com/Darkmen203/rostovvpn-core v0.0.0-20250114174404-c624fd472f18
 	github.com/fatih/color v1.16.0
-	github.com/Darkmen203/rostovvpn-core v1.9.1-0.20241001065750-4a521ba61013
 	github.com/rodaine/table v1.1.1
 	github.com/sagernet/sing v0.4.3
 	github.com/sagernet/sing-box v1.8.9
