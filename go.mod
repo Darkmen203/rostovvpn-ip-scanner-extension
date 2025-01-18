@@ -1,4 +1,4 @@
-module github.com/hiddify/hiddify-ip-scanner-extension
+module github.com/Darkmen203/rostovvpn-ip-scanner-extension
 
 go 1.22.0
 
